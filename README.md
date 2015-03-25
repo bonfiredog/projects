@@ -1,20 +1,15 @@
 # The Spare Set
-A Twine game made for Shelter UK, the housing and homelessness charity.
 
-In 2014 I worked with the housing and homelessness charity, Shelter UK, to produce a Twine game to run alongside their summer campaign. It is called The Spare Set, and you can play it at the following link:
+This is a game which I made last year for the UK housing and homelessness charity Shelter, as part of their summer campaign on the welfare system. It was well-received, but unfortunately not very well publicised outside the intended audience, i.e. supporters of the charity. However, I think you might enjoy it even if you are not based in the UK, or affected by the UK welfare system. 
 
-http://www.shelter.org.uk/twine
+It's called The Spare Set.
 
-The IFDB page is here: http://ifdb.tads.org/viewgame?id=dq148h8owh2asrbt
+A little bit of context: Shelter was campaigning for the government to improve the so-called 'safety net' provision for families. The 'safety net' is a system of financial benefits which families can call on temporarily if they fall into financial difficulty. Contrary to popular belief, it is not for shirkers or lazy people, but it is hard to erode such belief, and is politically expedient to bow to it. This 'safety net' provision has been cut horrifically in recent years.
 
-I wanted to create an experience for people to highlight the work that the charity does, as well as to draw people's attention to the issues facing many families in Britain today. 
+However, the need for it is even greater; in the current economic climate, even something small can put a big dent in your finances; an unexpected bill, or illness, or job loss. Shelter's research found that if there was a job loss, a majority of UK families would only have about a month of savings available. After this, they cannot pay their mortgage, and they lose their home. This happens an awful lot; I drew on a lot of real case studies to make this game.  
 
-Every 11 minutes in England, a family loses their home, usually through repossession. This is often as the result of forces outside their control; an accident at home or work, a job loss or other incident which means that they begin to find it extremely difficult to keep up with the payments on their home. In fact, the situation is so dire that many people, even if they do not know it, are only one paycheque away from losing their home. 
+I made 'The Spare Set' to allow players to experience the helplessness and frustration of being in this situation, and having little or no help. In the game, you play as Lucy, who must navigate this difficult situation and try and make the best of it. I wanted the game to break through populist belief and sneering; Lucy is hardworking, and desperate to make things right. 
 
-Shelter provides expert advice and legal representation to families at risk of losing their homes, equipping them with the tools they need to keep their lives on track. 'The Spare Set' is a fictional story of a woman named Lucy, a home-owner, office worker and mother-of-two who is in just such a situation. Players can explore her life right up until the point at which the incident occurs, and how things steadily get worse after this fact. 
+Bugs: admin@bonfiredog.co.uk
 
-This is an experiment for Shelter, a new medium through which to grow understanding and empathy for a problem which can affect anybody. I hope you enjoy the game, and if you have any constructive comments or bug-fixes, please send them to:
-
-admin@bonfiredog.co.uk
-
-or make a suggestion directly here on Github.
+For those who are interested, it is made in Twine.
