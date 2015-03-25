@@ -1,6 +1,6 @@
 # The Spare Set
 
-This is a game which I made last year for the UK housing and homelessness charity Shelter, as part of their summer campaign on the welfare system. It was well-received, but unfortunately not very well publicised outside the intended audience, i.e. supporters of the charity. However, I think you might enjoy it even if you are not based in the UK, or affected by the UK welfare system. 
+This is a game which I made last year for the UK housing and homelessness charity Shelter, as part of their summer campaign on the welfare system. It was well-received, but unfortunately not very well-publicised outside the intended audience, i.e. supporters of the charity. However, I think you might enjoy it even if you are not based in the UK, or affected by the UK welfare system. 
 
 It's called The Spare Set.
 
