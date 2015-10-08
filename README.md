@@ -17,7 +17,9 @@ Bugs: admin@bonfiredog.co.uk
 
 You can play the game online in two different places:
 
-Shelter's version (older, less compatible with updated browsers) http://www.sheltercontent.org.uk/twine/The%20Spare%20Set.html
+Shelter's version (older, less compatible with updated browsers)
+
+http://www.sheltercontent.org.uk/twine/The%20Spare%20Set.html
 
 My version (hosted on Bonfire Dog, up to date, less buggy)
 
