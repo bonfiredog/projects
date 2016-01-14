@@ -1,8 +1,8 @@
-# The Spare Set
+![The Spare Set Logo](https://camo.githubusercontent.com/e4bf0d5692e2cfda45d51f13fd6436df15f1498b/687474703a2f2f696664622e746164732e6f72672f73686f77696d6167653f69643d32253341363135)
 
-This is a game which I made in 2014 for the UK housing and homelessness charity Shelter as part of their summer campaign concerning the public welfare system in Britain. It was well-received, but unfortunately not very well-publicised outside the intended audience of the charity's supporters. However, I think that it might be enjoyed even by those not based in the UK and those unaffected by the UK welfare state. 
+This is a game which I made in 2014 for the UK housing and homelessness charity [Shelter](http://shelter.org.uk "Shelter") as part of their summer campaign concerning the public welfare system in Britain. It was well-received, but unfortunately not very well-publicised outside the intended audience of the charity's supporters. However, I think that it might be enjoyed even by those not based in the UK and those unaffected by the UK welfare state. 
 
-It's called The Spare Set.
+It's called **The Spare Set**.
 
 A small bit of context: Shelter was campaigning for the government to improve the so-called 'safety net' provision for families. The 'safety net' is a system of financial benefits which families can call on temporarily if they fall into fiscal difficulty. Contrary to popular belief, it is not for shirkers or lazy people, but it is hard to erode such belief, and is politically expedient to bow to it. This 'safety net' provision has been cut horrifically in recent years, to the detriment of many unnewsworthy people.
 
@@ -12,18 +12,17 @@ I made 'The Spare Set' to allow players to experience this helplessness and frus
 
 In the game you play as Lucy, who must navigate this difficult scenario and try and make the best of it. I wanted the game to break through populist belief and sneering; Lucy is hardworking, desperate to make things right and, most of all, only human.
 
-Bugs: admin@bonfiredog.co.uk
+***
 
-You can play the game online in two different places:
+* **Bugs**: Either using the 'Issues' tab on this repository or by [emailing me](mailto:admin@bonfiredog.co.uk).
 
-Shelter's version (older, less compatible with updated browsers)
+* *You can play the game online in two different places:*
 
-http://www.sheltercontent.org.uk/twine/The%20Spare%20Set.html
+  **Shelter's version (older, less compatible with updated browsers)**: [[Link]](http://www.sheltercontent.org.uk/twine/The%20Spare%20Set.html)
 
-My version (hosted on Bonfire Dog, up to date, less buggy)
+  **My version (hosted on [Bonfire Dog](http://bonfiredog.co.uk), up-to-date, less buggy)**:
+  [[Link]](http://bonfiredog.co.uk/thespareset)
 
-http://bonfiredog.co.uk/thespareset
+***
 
-
-
-For those who are interested, it is made in Twine 4.2.
+For those who are interested, it is made in [Twine 4.2](http://twinery.org).
