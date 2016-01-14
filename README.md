@@ -15,7 +15,7 @@ In the game you play as Lucy, who must navigate this difficult scenario and try 
 
 ***
 
-* **Bugs**: Either using the 'Issues' tab on this repository or by [emailing me](mailto:admin@bonfiredog.co.uk).
+* Report bugs either using the 'Issues' tab on this repository or by [emailing me](mailto:admin@bonfiredog.co.uk).
 
 * You can play the game online in two different places:
 
