@@ -25,8 +25,6 @@ Playing The Game
   * **My version (hosted on [Bonfire Dog](http://bonfiredog.co.uk), up-to-date, less buggy)**:
   [[Link]](http://bonfiredog.co.uk/thespareset)
 
-***     
-
 Tools Used 
 ----------
 
