@@ -1,4 +1,4 @@
-![The Spare Set Logo](https://camo.githubusercontent.com/e4bf0d5692e2cfda45d51f13fd6436df15f1498b/687474703a2f2f696664622e746164732e6f72672f73686f77696d6167653f69643d32253341363135)
+<p align="center"><img src="https://camo.githubusercontent.com/e4bf0d5692e2cfda45d51f13fd6436df15f1498b/687474703a2f2f696664622e746164732e6f72672f73686f77696d6167653f69643d32253341363135" /></p><br />
 
 This is a game which I made in 2014 for the UK housing and homelessness charity [Shelter](http://shelter.org.uk "Shelter") as part of their summer campaign concerning the public welfare system in Britain. It was well-received, but unfortunately not very well-publicised outside the intended audience of the charity's supporters. However, I think that it might be enjoyed even by those not based in the UK and those unaffected by the UK welfare state. 
 
