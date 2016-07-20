@@ -25,6 +25,9 @@ Playing The Game
   * **My version (hosted on [Bonfire Dog](http://bonfiredog.co.uk), up-to-date, less buggy)**:
   [[Link]](http://bonfiredog.co.uk/thespareset)
 
+  * **Latest version on itch.io (with commenting)**:
+  [[Link]](https://bonfiredog.itch.io/the-spare-set)
+
 Tools Used 
 ----------
 
