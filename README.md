@@ -11,7 +11,7 @@ However, the need for it was, and sadly is, greater that ever; in the current ec
 I made 'The Spare Set' to allow players to experience this helplessness and frustration, and to simulate how the government's cuts might worsen an already dreadful situation.
 
 In the game you play as Lucy, who must navigate this difficult scenario and try and make the best of it. I wanted the game to break through populist belief and sneering; Lucy is hardworking, desperate to make things right and, most of all, only human.     
-<br />
+
 Bugs
 ----
 Please report bugs by [email](mailto:admin@bonfiredog.co.uk).
